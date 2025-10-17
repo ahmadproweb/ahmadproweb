@@ -4,6 +4,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+Native+Expert;Building+Scalable+Solutions;200%2B+Projects+Delivered;6%2B+Years+Experience" alt="Typing SVG" />
 
+### 💻 Turning Ideas into Scalable Digital Solutions
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-ahmadproweb.com-00D9FF?style=for-the-badge)](https://ahmadproweb.com)
+[![Fiverr](https://img.shields.io/badge/💼_Fiverr-Level_2_Seller-1DBF73?style=for-the-badge)](https://fiverr.com/ahmad_pro_web)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/ahmadproweb)
+[![Email](https://img.shields.io/badge/📧_Email-contact-EA4335?style=for-the-badge)](mailto:contact@ahmadproweb.com)
+
+</div>
+
+---
 
 ## 📊 GitHub Activity
 
@@ -16,6 +26,24 @@
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/ahmadproweb/ahmadproweb/output/snake.svg)
 
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is poetry written in logic"
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadproweb&label=Profile%20Views&color=00D9FF&style=flat-square)
+
+**Made with ❤️ by Ahmad**
+
+</div>
